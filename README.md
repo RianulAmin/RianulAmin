@@ -1,1 +1,1 @@
-![](https://leetcard.jacoblin.cool/RianulAmin?width=auto&height=auto)
+![](https://leetcard.jacoblin.cool/RianulAmin?width=500&height=500)
